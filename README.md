@@ -2,14 +2,6 @@
 
 **Rapid non-destructive method to phenotype stomatal traits** 
 
-Phetdalaphone Pathoumthong1,2, Zhen Zhang3, Stuart J. Roy1,2,4, Abdeljalil El Habti1,2\* 
-
-1School of Agriculture, Food and Wine, The University of Adelaide, Urrbrae 5064, Australia 2The Waite Research Institute, Urrbrae 5064, Australia 
-
-3Australian  Institute  for  Machine  Learning,  The  University  of  Adelaide,  Adelaide  5000, Australia 
-
-4Australian  Research  Council  Industrial  Transformation  Training  Centre  for  Future  Crops Development, The University of Adelaide, Urrbrae 5064, Australia \* Corresponding author: abdeljalil.elhabti@adelaide.edu.au
-
 It  is  important  to  have  good  quality  images  to  allow  the  machine-learning  algorithm  to recognise stomata. 
 
 Click on the link [https://drive.google.com/drive/folders/1Bta3MITvtJlY0yTmUauX1ayT2Wy3IWm2?usp=shari ng ](https://drive.google.com/drive/folders/1Bta3MITvtJlY0yTmUauX1ayT2Wy3IWm2?usp=sharing)
