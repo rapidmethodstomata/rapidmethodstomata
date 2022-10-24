@@ -25,7 +25,7 @@ Stomata analysis process follows three steps:
 - Bounding box extraction 
 - Stomata measurement 
 
-**Stomata detection** 
+<h1>Stomata detection</h1> 
 
 Click on the start button of the first script 
 
