@@ -9,7 +9,7 @@ It  is  important  to have good  quality  images  to  allow  the  machine-learni
 
 Click on the link  (shared Google Drive folder) [https://drive.google.com/drive/folders/1Bta3MITvtJlY0yTmUauX1ayT2Wy3IWm2?usp=shari ng ](https://drive.google.com/drive/folders/1Bta3MITvtJlY0yTmUauX1ayT2Wy3IWm2?usp=sharing)
 
-If you cannot open the link using Chrome, open in another browser e.g. Microsoft Edge. Copy the folder of the species of interest in your Google Drive. 
+Copy the folder of the species of interest in your Google Drive. 
 
 Each species folder contains:  
 
