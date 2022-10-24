@@ -1,4 +1,6 @@
-****This page is being updated****
+**This page is currently being updated**
+
+
 
 **USER GUIDE** 
 
@@ -19,37 +21,3 @@ Stomata analysis process follows three steps:
 - Stomata detection 
 - Bounding box extraction 
 - Stomata measurement 
-
-**Stomata detection** 
-
-Click on the start button of the first script 
-
-![](Aspose.Words.9d4d3661-095f-42f8-9e2b-670a3f4cbb2c.002.png)
-
-Click on *Run anyway* 
-
-![](Aspose.Words.9d4d3661-095f-42f8-9e2b-670a3f4cbb2c.003.png)
-
-Click on the start button of the second script 
-
-![](Aspose.Words.9d4d3661-095f-42f8-9e2b-670a3f4cbb2c.004.png)
-
-Click on the start button of the third script 
-
-![](Aspose.Words.9d4d3661-095f-42f8-9e2b-670a3f4cbb2c.005.png)
-
-Connect to Google Drive 
-
-![](Aspose.Words.9d4d3661-095f-42f8-9e2b-670a3f4cbb2c.006.png)
-
-Sign in - Allow 
-
-Click on the start button of the fourth script 
-
-![](Aspose.Words.9d4d3661-095f-42f8-9e2b-670a3f4cbb2c.007.png)
-
-Create new folder in your Google Drive and transfer images you would like to analyse 
-
-Click on folder tab (left) 
-
-![](Aspose.Words.9d4d3661-095f-42f8-9e2b-670a3f4cbb2c.008.png)
