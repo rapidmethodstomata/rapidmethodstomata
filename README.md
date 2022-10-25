@@ -98,3 +98,63 @@ Move txt files and labelled images to “*Species*AnalysedImages” folder in yo
 ![](Aspose.Words.8a2c643e-8098-4838-ba52-e7a69dcb9864.014.png)
 ![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 014](https://user-images.githubusercontent.com/116483670/197895976-33f9ec44-0bea-46fb-8bd4-387003d3b712.png)
 
+<h1>Bounding box extraction</h1>
+
+Click on the start button of the first script
+
+![](Aspose.Words.4a686a76-6697-4bd5-a1a5-d36983812772.001.png)
+![Aspose Words 4a686a76-6697-4bd5-a1a5-d36983812772 001](https://user-images.githubusercontent.com/116483670/197896379-e430cc4d-62e6-46ff-be8e-a87a470ac7b1.png)
+
+Click on the start button of the next script
+
+![](Aspose.Words.4a686a76-6697-4bd5-a1a5-d36983812772.002.png)
+![Aspose Words 4a686a76-6697-4bd5-a1a5-d36983812772 002](https://user-images.githubusercontent.com/116483670/197896385-61a574c4-2fd2-450b-9669-fa969b54ac45.png)
+
+Click on the start button of the next script
+
+![](Aspose.Words.4a686a76-6697-4bd5-a1a5-d36983812772.003.png)
+![Aspose Words 4a686a76-6697-4bd5-a1a5-d36983812772 003](https://user-images.githubusercontent.com/116483670/197896387-a2d442b7-8c32-45ad-917b-494c72e00571.png)
+
+Click on the start button of the next script
+
+![](Aspose.Words.4a686a76-6697-4bd5-a1a5-d36983812772.004.png)
+![Aspose Words 4a686a76-6697-4bd5-a1a5-d36983812772 004](https://user-images.githubusercontent.com/116483670/197896395-d9afc875-0003-4ef0-a0cb-4c548d918221.png)
+
+Click on the start button of the next script
+
+![](Aspose.Words.4a686a76-6697-4bd5-a1a5-d36983812772.005.png)
+![Aspose Words 4a686a76-6697-4bd5-a1a5-d36983812772 005](https://user-images.githubusercontent.com/116483670/197896399-278a02d9-dbb0-4633-b887-197dfc296c1f.png)
+
+Connect to Google Drive 
+
+![](Aspose.Words.4a686a76-6697-4bd5-a1a5-d36983812772.006.png)
+![Aspose Words 4a686a76-6697-4bd5-a1a5-d36983812772 006](https://user-images.githubusercontent.com/116483670/197896408-7f040cff-609c-43d9-aec1-d01685a08640.png)
+
+Sign in - Allow
+
+In the next script, check that the path for the folder that contains txt files and labelled images is correct.
+
+![](Aspose.Words.4a686a76-6697-4bd5-a1a5-d36983812772.007.png)
+![Aspose Words 4a686a76-6697-4bd5-a1a5-d36983812772 007](https://user-images.githubusercontent.com/116483670/197896432-dbe0658f-1609-4748-a17f-9b60c1aea180.png)
+
+Click on the start button of the script
+
+Click on the start button of the next script
+
+![](Aspose.Words.4a686a76-6697-4bd5-a1a5-d36983812772.008.png) 
+![Aspose Words 4a686a76-6697-4bd5-a1a5-d36983812772 008](https://user-images.githubusercontent.com/116483670/197896444-49062b7d-27b6-4ff2-b988-36f787757651.png)
+
+Download the folder below:
+
+![](Aspose.Words.4a686a76-6697-4bd5-a1a5-d36983812772.009.png)
+![Aspose Words 4a686a76-6697-4bd5-a1a5-d36983812772 009](https://user-images.githubusercontent.com/116483670/197896452-9160e484-5e64-46bc-ad8c-f4b2e288eed8.png)
+
+This folder contains images of individual stomata.
+
+Check the quality of images before proceeding to the next step. Delete images where stomata are not clear to not include them in the analysis.
+
+Move individual stomata images to “*Species*SegmentedImages” folder in your Google Drive.
+
+![](Aspose.Words.4a686a76-6697-4bd5-a1a5-d36983812772.010.png)
+![Aspose Words 4a686a76-6697-4bd5-a1a5-d36983812772 010](https://user-images.githubusercontent.com/116483670/197896456-6a01a15a-413a-4178-bed2-fd116e93414e.png)
+
