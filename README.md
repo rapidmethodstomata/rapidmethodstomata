@@ -158,3 +158,53 @@ Move individual stomata images to “*Species*SegmentedImages” folder in your 
 ![](Aspose.Words.4a686a76-6697-4bd5-a1a5-d36983812772.010.png)
 ![Aspose Words 4a686a76-6697-4bd5-a1a5-d36983812772 010](https://user-images.githubusercontent.com/116483670/197896456-6a01a15a-413a-4178-bed2-fd116e93414e.png)
 
+<h1>Stomata measurement</h1>
+
+Click on the start button of the first script
+
+![](Aspose.Words.c92e0bb2-a880-43fe-9a54-8074a5ddde47.001.png)
+![Aspose Words c92e0bb2-a880-43fe-9a54-8074a5ddde47 001](https://user-images.githubusercontent.com/116483670/197896885-353fbed9-4938-4e5b-95ec-483e6d9d221c.png)
+
+Click on the start button of the next script
+
+![](Aspose.Words.c92e0bb2-a880-43fe-9a54-8074a5ddde47.002.png)
+![Aspose Words c92e0bb2-a880-43fe-9a54-8074a5ddde47 002](https://user-images.githubusercontent.com/116483670/197896889-566ac0f5-bee1-4327-a8c6-da0599453f61.png)
+
+In the next script, check that the paths for the folder that contains individual stomata images and measurement model are correct.
+
+- Path for *Species*Segmentedimages
+
+![](Aspose.Words.c92e0bb2-a880-43fe-9a54-8074a5ddde47.003.png)
+![Aspose Words c92e0bb2-a880-43fe-9a54-8074a5ddde47 003](https://user-images.githubusercontent.com/116483670/197896895-61d32853-7c9c-40b5-a2c1-5e188d82b47e.png)
+
+- Path for stomatal detection model
+
+![](Aspose.Words.c92e0bb2-a880-43fe-9a54-8074a5ddde47.004.png)
+![Aspose Words c92e0bb2-a880-43fe-9a54-8074a5ddde47 004](https://user-images.githubusercontent.com/116483670/197896902-d234cf20-ad5d-4fed-b1f5-c0bbc20a1c1d.png)
+
+Click on the start button of the script
+
+![](Aspose.Words.c92e0bb2-a880-43fe-9a54-8074a5ddde47.005.png)
+![Aspose Words c92e0bb2-a880-43fe-9a54-8074a5ddde47 005](https://user-images.githubusercontent.com/116483670/197896907-a949e6e9-407d-4d7f-8baf-5b3243dafcac.png)
+
+In the next script, check that the paths for the folder that contains individual stomata images is correct.
+
+![](Aspose.Words.c92e0bb2-a880-43fe-9a54-8074a5ddde47.006.png)
+![Aspose Words c92e0bb2-a880-43fe-9a54-8074a5ddde47 006](https://user-images.githubusercontent.com/116483670/197896916-57d969c8-1f3b-48b8-9f29-c6e975a0b0e6.png)
+
+Click on the start button of the script
+
+Click on the start button of the next script
+
+![](Aspose.Words.c92e0bb2-a880-43fe-9a54-8074a5ddde47.007.png)
+![Aspose Words c92e0bb2-a880-43fe-9a54-8074a5ddde47 007](https://user-images.githubusercontent.com/116483670/197896921-38470953-ca2e-443a-b42d-a050c6c6bace.png)
+
+Download the folder below:
+
+![](Aspose.Words.c92e0bb2-a880-43fe-9a54-8074a5ddde47.008.png)
+![Aspose Words c92e0bb2-a880-43fe-9a54-8074a5ddde47 008](https://user-images.githubusercontent.com/116483670/197896938-a24f3e7f-1ee5-42c8-9a7e-b86e3ecbd4cf.png)
+
+This folder contains data on stomatal size and aperture if applicable.
+
+
+
