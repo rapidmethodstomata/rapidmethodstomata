@@ -11,8 +11,6 @@ Click on the link (Google Drive shared folder)
 
 <https://drive.google.com/drive/folders/1Bta3MITvtJlY0yTmUauX1ayT2Wy3IWm2?usp=sharing>
 
-If you cannot open the link using Chrome, open in another browser e.g. Microsoft Edge.
-
 Copy the folder of the species of interest in your Google Drive.
 
 Each species folder contains: 
