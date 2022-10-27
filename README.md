@@ -1,9 +1,7 @@
-<h1>This page is currently being updated</h1>
+<h1>Rapid non-destructive method to phenotype stomatal traits</h1>
 
 
 **USER GUIDE**
-
-**Rapid non-destructive method to phenotype stomatal traits**
 
 It is important to have good quality images to allow the machine-learning algorithm to recognise stomata.
 
