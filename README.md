@@ -27,7 +27,7 @@ Stomata analysis process follows three steps:
 
 <h1>Stomata detection</h1>
 
-Open *Species* detection file
+Open *Species* Detection file
 
 ![](Aspose.Words.8a2c643e-8098-4838-ba52-e7a69dcb9864.000.png)
 ![0Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 000](https://user-images.githubusercontent.com/116483670/198410432-0e205bd6-4722-4201-b2e8-164db6e1e91a.PNG)
@@ -67,12 +67,12 @@ Move images to be analysed to “*Species*Images” folder in your Google Drive.
 
 In the next script, check that the path for stomatal detection model for the species of interest and the path for your images are correct.
 
-Path for stomatal detection model
+- Path for stomatal detection model
 
 ![](Aspose.Words.8a2c643e-8098-4838-ba52-e7a69dcb9864.009.png)
 ![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 009](https://user-images.githubusercontent.com/116483670/197895931-d78ccba2-1e77-41b2-a3b3-2c3cc0e16ff6.png)
 
-Path for *Species*images
+- Path for *Species*images
 
 ![](Aspose.Words.8a2c643e-8098-4838-ba52-e7a69dcb9864.010.png)
 ![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 010](https://user-images.githubusercontent.com/116483670/197895937-4dbee5ba-58f7-409b-91a8-204f3a3e3e89.png)
@@ -100,6 +100,11 @@ Move txt files and original images to “*Species*AnalysedImages” folder in yo
 ![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 014](https://user-images.githubusercontent.com/116483670/197895976-33f9ec44-0bea-46fb-8bd4-387003d3b712.png)
 
 <h1>Bounding box extraction</h1>
+
+Open Bounding box extraction file
+
+![](Aspose.Words.4a686a76-6697-4bd5-a1a5-d36983812772.000.png)
+![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 000](https://user-images.githubusercontent.com/116483670/198410838-0794aaff-59e7-463c-a9c8-316719dcf0ed.PNG)
 
 Click on the start button of the first script
 
@@ -152,7 +157,7 @@ Download the folder below:
 
 This folder contains images of individual stomata.
 
-Check the quality of images before proceeding to the next step. Delete images where stomata are not clear to not include them in the analysis.
+Check the quality of images before proceeding to the next step. Delete images where stomata are not clear to exclude it from analysis.
 
 Move individual stomata images to “*Species*SegmentedImages” folder in your Google Drive.
 
@@ -160,6 +165,11 @@ Move individual stomata images to “*Species*SegmentedImages” folder in your 
 ![Aspose Words 4a686a76-6697-4bd5-a1a5-d36983812772 010](https://user-images.githubusercontent.com/116483670/197896456-6a01a15a-413a-4178-bed2-fd116e93414e.png)
 
 <h1>Stomata measurement</h1>
+
+Open *Species* Measurement file
+
+![](Aspose.Words.c92e0bb2-a880-43fe-9a54-8074a5ddde47.000.png)
+![Aspose Words c92e0bb2-a880-43fe-9a54-8074a5ddde47 000](https://user-images.githubusercontent.com/116483670/198411482-4a9eeceb-13e3-45e4-a0fd-8a2e0d0661cb.PNG)
 
 Click on the start button of the first script
 
