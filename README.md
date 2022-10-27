@@ -1,4 +1,4 @@
-<h1>Rapid non-destructive method to phenotype stomatal traits</h1>
+<h1>Rapid non-destructive method to phenotype stomata</h1>
 
 
 **USER GUIDE**
