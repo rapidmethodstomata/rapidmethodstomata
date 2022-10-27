@@ -89,9 +89,7 @@ Download the folder below:
 
 This folder contains bounding box coordinates for each stomata in a txt file, and labelled images. 
 
-
-
-Move txt files and labelled images to “*Species*AnalysedImages” folder in your Google Drive.
+Move txt files and original images to “*Species*AnalysedImages” folder in your Google Drive.
 
 ![](Aspose.Words.8a2c643e-8098-4838-ba52-e7a69dcb9864.014.png)
 ![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 014](https://user-images.githubusercontent.com/116483670/197895976-33f9ec44-0bea-46fb-8bd4-387003d3b712.png)
