@@ -15,7 +15,6 @@ Each species folder contains:
 
 - three folders: *Species*Images, *Species*AnalysedImages and *Species*SegmentedImages
 - five files: three Google Colab scripts (detection, bounding box extraction and measurement), a detection mode and a measurement model.
-
 ![](Aspose.Words.8a2c643e-8098-4838-ba52-e7a69dcb9864.001.png)
 ![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 001](https://user-images.githubusercontent.com/116483670/200266148-fcf3f993-fd5f-4106-93e8-def1a70d1402.png)
 
@@ -28,7 +27,6 @@ Stomata analysis process follows three steps:
 <h1>Stomata detection</h1>
 
 Open *Species* Detection file
-
 ![](Aspose.Words.8a2c643e-8098-4838-ba52-e7a69dcb9864.000.png)
 ![0Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 000](https://user-images.githubusercontent.com/116483670/198410432-0e205bd6-4722-4201-b2e8-164db6e1e91a.PNG)
 
