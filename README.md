@@ -105,7 +105,7 @@ Move txt files and original images to “*Species*AnalysedImages” folder in yo
 Open Bounding box extraction file
 
 ![](Aspose.Words.4a686a76-6697-4bd5-a1a5-d36983812772.000.png)
-![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 000](https://user-images.githubusercontent.com/116483670/198410838-0794aaff-59e7-463c-a9c8-316719dcf0ed.PNG)
+![Aspose Words 4a686a76-6697-4bd5-a1a5-d36983812772 000](https://user-images.githubusercontent.com/116483670/200271250-59268aa3-3073-4f50-a384-9ffbcf047334.png)
 
 Click on the start button of the first script
 
@@ -170,7 +170,7 @@ Move individual stomata images to “*Species*SegmentedImages” folder in your 
 Open *Species* Measurement file
 
 ![](Aspose.Words.c92e0bb2-a880-43fe-9a54-8074a5ddde47.000.png)
-![Aspose Words c92e0bb2-a880-43fe-9a54-8074a5ddde47 000](https://user-images.githubusercontent.com/116483670/198411482-4a9eeceb-13e3-45e4-a0fd-8a2e0d0661cb.PNG)
+![Aspose Words c92e0bb2-a880-43fe-9a54-8074a5ddde47 000](https://user-images.githubusercontent.com/116483670/200271786-0f94c29d-e242-4967-910e-fa89d128c117.png)
 
 Click on the start button of the first script
 
@@ -217,6 +217,3 @@ Download the folder below:
 ![Aspose Words c92e0bb2-a880-43fe-9a54-8074a5ddde47 008](https://user-images.githubusercontent.com/116483670/197896938-a24f3e7f-1ee5-42c8-9a7e-b86e3ecbd4cf.png)
 
 This folder contains data on stomatal size and aperture if applicable.
-
-
-
