@@ -17,7 +17,7 @@ Each species folder contains:
 - five files: three Google Colab scripts (detection, bounding box extraction and measurement), a detection mode and a measurement model.
 
 ![](Aspose.Words.8a2c643e-8098-4838-ba52-e7a69dcb9864.001.png)
-![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 001](https://user-images.githubusercontent.com/116483670/200266148-fcf3f993-fd5f-4106-93e8-def1a70d1402.png)
+![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 001](https://user-images.githubusercontent.com/116483670/200269749-34db9b98-ef24-443b-a82d-b3ee7a135049.png)
 
 Stomata analysis process follows three steps:
 
@@ -30,9 +30,10 @@ Stomata analysis process follows three steps:
 Open *Species* Detection file
 
 ![](Aspose.Words.8a2c643e-8098-4838-ba52-e7a69dcb9864.000.png)
-![0Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 000](https://user-images.githubusercontent.com/116483670/198410432-0e205bd6-4722-4201-b2e8-164db6e1e91a.PNG)
+![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 000](https://user-images.githubusercontent.com/116483670/200269793-2bf6bec9-72ba-4582-ba77-db2b1f6304df.png)
 
 Click on the start button of the first script 
+
 
 ![](Aspose.Words.8a2c643e-8098-4838-ba52-e7a69dcb9864.002.png)
 ![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 002](https://user-images.githubusercontent.com/116483670/197895472-e853fd70-f217-4909-8681-65d18f702a0e.png)
