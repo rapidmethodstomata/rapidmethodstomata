@@ -17,7 +17,7 @@ Each species folder contains:
 - five files: three Google Colab scripts (detection, bounding box extraction and measurement), a detection mode and a measurement model.
 
 ![](Aspose.Words.8a2c643e-8098-4838-ba52-e7a69dcb9864.001.png)
-![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 001](https://user-images.githubusercontent.com/116483670/197895468-7c302653-4275-4890-ac51-274af9f22b88.png)
+![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 001](https://user-images.githubusercontent.com/116483670/200266148-fcf3f993-fd5f-4106-93e8-def1a70d1402.png)
 
 Stomata analysis process follows three steps:
 
