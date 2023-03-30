@@ -14,7 +14,7 @@ Copy the folder of the species of interest in your Google Drive.
 Each species folder contains: 
 
 - three folders: *Species*Images, *Species*AnalysedImages and *Species*SegmentedImages
-- five files: three Google Colab scripts (detection, bounding box extraction and measurement), a detection mode and a measurement model.
+- five files: three Google Colab scripts (detection, bounding box extraction and measurement), a detection model and a measurement model.
 
 ![](Aspose.Words.8a2c643e-8098-4838-ba52-e7a69dcb9864.001.png)
 ![Aspose Words 8a2c643e-8098-4838-ba52-e7a69dcb9864 001](https://user-images.githubusercontent.com/116483670/200269749-34db9b98-ef24-443b-a82d-b3ee7a135049.png)
