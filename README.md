@@ -1,6 +1,6 @@
 <h1>Rapid non-destructive method to phenotype stomata</h1>
 
-Pathoumthong, P., Zhang, Z., Roy, S.J. et al. Rapid non-destructive method to phenotype stomatal traits. Plant Methods 19, 36 (2023). <https://doi.org/10.1186/s13007-023-01016-y>
+Pathoumthong, P., Zhang, Z., Roy, S.J. & El Habti A. Rapid non-destructive method to phenotype stomatal traits. Plant Methods 19, 36 (2023). <https://doi.org/10.1186/s13007-023-01016-y>
 
 # **USER GUIDE**
 
