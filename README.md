@@ -2,7 +2,7 @@
 
 Pathoumthong, P., Zhang, Z., Roy, S.J. et al. Rapid non-destructive method to phenotype stomatal traits. Plant Methods 19, 36 (2023). <https://doi.org/10.1186/s13007-023-01016-y>
 
-**USER GUIDE**
+# **USER GUIDE**
 
 It is important to have good quality images to allow the machine-learning algorithm to recognise stomata.
 
